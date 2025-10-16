@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @hyelngtil
-- 👀 I’m interested in Android Development
-- 🌱 I’m currently learning Kotlin/Android
-- 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me @isaac_maven on twitter
+- 👋 Hi, I’m Hyelngtil
+- 👀 I’m an AWS Cloud Engineer
+- 🌱 I’m currently learning DevOps
+- 📫 How to reach me at www.linkedin.com/in/hyelngtil-isaac-795a1b149 and @hyelngtil_ on x
 
 <!---
 hyelngtil/hyelngtil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
