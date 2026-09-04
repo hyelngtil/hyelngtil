@@ -2,7 +2,7 @@
 
 **Here's a quick summary about me**:
 
--  My name is Hyelngtil pronounced as *Hey-lin-tl* 
+-  My name is Hyelngtil pronounced as *Hey-ln-til* 
 -   I am a Cloud Engineer.
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Engineering].
